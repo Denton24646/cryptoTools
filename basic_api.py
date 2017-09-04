@@ -2,7 +2,7 @@
 
 from bittrex import bittrex
 
-api = bittrex('70cd26f1971341e5a9a82a0b3f8a47c3 ', '1acb7d303718470c8167cce8e1e871fe ')
+api = bittrex('key ', 'secret ')
 
 #print api.getticker('BTC-ETH')
 
